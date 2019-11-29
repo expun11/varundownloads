@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "VarunMatlni",
+    "name": "VarunMatlani ",
     "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
@@ -34,7 +34,12 @@
     "versionFirst": "4.7.7",
     "uniqCompNum": 5,
     "versionPublish": "4.8.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-128x29.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
